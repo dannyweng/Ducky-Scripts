@@ -1,3 +1,5 @@
+//  This script will leave a message and lock the Windows Computer
+
 REM Leave a little reminder to lock your PC (just delete or comment this out if you don't want that)
 GUI r
 DELAY 300
